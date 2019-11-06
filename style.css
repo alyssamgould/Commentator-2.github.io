@@ -74,6 +74,10 @@ Body:      14px/24px 'Josefin Sans', sans-serif;
 /*===================================
   02. Typography
 ====================================== */
+#test {
+    font-size: 10px;
+}
+
 html {
   font-size: 100%;
 }
