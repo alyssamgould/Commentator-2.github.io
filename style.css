@@ -1,15 +1,12 @@
 @charset "UTF-8";
 /*********************************************************************
-
     Template Name: Pitar
     Template URI: https://themeforest.net/user/codextree
     Description: A 'Pitar – Personal Portfolio Html5 Template' is perfect if you like a clean and modern design. This theme is ideal for Agency, Freelancer, Portfolio, and those who need an easy, attractive and effective way to share their work with clients.
     Author: codextree
     Version: 1.0
     Author URI: http://riyad.ninja
-
     Note: This is style scss.
-
 *********************************************************************/
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
@@ -53,17 +50,14 @@
 */
 /*------------------------------------------------------------------
 [Color codes]
-
 Background: #ffffff (white)
 Header all:  #303030 (Dark grey)
 Footer:     #1E1E1E 
-
 a (standard):   #ACACAC 
 a (active): #000 (black)
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [Typography]
-
 Body:      14px/24px 'Josefin Sans', sans-serif;
 -------------------------------------------------------------------*/
 /*===================================
@@ -2309,7 +2303,7 @@ textarea {
 }
 
 .single_contact_info > .icon {
-  background-color: #702323;
+  background-color: #333;
   border-radius: 50%;
   display: block;
   height: 50px;
@@ -2327,7 +2321,7 @@ textarea {
 }
 
 .single_contact_info:hover > .icon {
-  background-color: #702323;
+  background-color: #000;
 }
 
 .single_contact_info .info {
@@ -2524,7 +2518,7 @@ textarea {
     11 Site Footer
 */
 .footer {
-  background-color: #702323;
+  background-color: #1E1E1E;
 }
 
 .footer .clearfix {
@@ -2555,7 +2549,7 @@ textarea {
 .footer-bottom-area {
   position: relative;
   padding: 20px 0;
-  background-color: #5e2323;
+  background-color: #191919;
 }
 
 .copyright {
@@ -2583,7 +2577,7 @@ textarea {
 }
 
 .footer_social_share > li > a {
-  background-color: #4e2323;
+  background-color: #242424;
   border-radius: 50%;
   box-shadow: 0 0 32px rgba(0, 0, 0, 0.16);
   color: #fff;
