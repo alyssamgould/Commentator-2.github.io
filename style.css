@@ -481,7 +481,7 @@ cite {
   width: calc(50% + 1px);
   height: 100%;
   z-index: -1;
-  background-color: #702323;
+  background-color: #000;
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
