@@ -2309,7 +2309,7 @@ textarea {
 }
 
 .single_contact_info > .icon {
-  background-color: #333;
+  background-color: #702323;
   border-radius: 50%;
   display: block;
   height: 50px;
@@ -2327,7 +2327,7 @@ textarea {
 }
 
 .single_contact_info:hover > .icon {
-  background-color: #000;
+  background-color: #702323;
 }
 
 .single_contact_info .info {
@@ -2524,7 +2524,7 @@ textarea {
     11 Site Footer
 */
 .footer {
-  background-color: #1E1E1E;
+  background-color: #702323;
 }
 
 .footer .clearfix {
@@ -2555,7 +2555,7 @@ textarea {
 .footer-bottom-area {
   position: relative;
   padding: 20px 0;
-  background-color: #191919;
+  background-color: #5e2323;
 }
 
 .copyright {
@@ -2583,7 +2583,7 @@ textarea {
 }
 
 .footer_social_share > li > a {
-  background-color: #242424;
+  background-color: #4e2323;
   border-radius: 50%;
   box-shadow: 0 0 32px rgba(0, 0, 0, 0.16);
   color: #fff;
